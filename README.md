@@ -39,12 +39,12 @@ To run this project locally on your machine:
 2. **Navigate to the project directory:**
 
    ```bash
-   cd comp488-assignment2
+   cd comp488-kbhattarai2-assignmt2
    ```
 
 3. **Open the project:**
    - Option 1: Open `index.html` directly in your web browser
-   - Option 2: Use a local server (recommended):
+   - Option 2: Use a local server:
 
      ```bash
      # If you have Python installed:
@@ -63,7 +63,7 @@ To run this project locally on your machine:
 ## Project Structure
 
 ```
-comp488-assignment2/
+comp488-kbhattarai2-assignmt2/
 │
 ├── index.html          # Main HTML file
 ├── style.css           # CSS styling
