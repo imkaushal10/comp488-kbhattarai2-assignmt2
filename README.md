@@ -8,7 +8,7 @@ The site includes multiple content sections, responsive design for various scree
 
 ## Live Demo
 
-🌐 **Live Site:** [https://comp488-kbhattarai2-assignmt2.vercel.app/
+🌐 **Live Site:** https://comp488-kbhattarai2-assignmt2.vercel.app/
 
 ## Technologies Used
 
@@ -113,7 +113,7 @@ The deployment process using GitHub and Vercel was particularly enlightening, as
 
 This assignment has given me confidence in building complete web applications from scratch and deploying them to production environments using industry-standard tools and practices. The experience of creating a professional-looking website with interactive features while maintaining clean, readable code has prepared me for more complex web development projects. Understanding both the development and deployment aspects of web projects provides a solid foundation for modern web development careers, where developers are expected to manage the entire pipeline from code to production.
 
-Author: [Kaushal Bhattarai]
+Author: Kaushal Bhattarai
 Course: COMP 488
 Assignment: 2 - Deploy a Simple Website Using GitHub and Vercel
-Date: [9/17/2025]
+Date: 9/17/2025
